@@ -93,7 +93,28 @@ El archivo contiene datos detallados de clientes organizados en estructuras anid
 ## 📁 Estructura del Proyecto
 
 ```bash
+├── img/
+│   └── Distribucion-Churn-por-variable-categorica.png
+│   └── Distribucion-Churn-por-variable-numerica.png
+│   └── Grafico-proporcion-de-Churn.png
 ├── README.md
-├── datos.json
 ├── TelecomX_Analisis_evasión_de_clientes.ipynb
+├── datos.json
 ```
+
+---
+
+## 📷 Visualizaciones Clave
+
+A continuación se presentan algunas visualizaciones destacadas obtenidas durante el análisis:
+
+![Distribución de Churn por variable](img/Grafico-proporcion-de-Churn.png)
+
+*Figura 1: Distribución de clientes según churn.*
+
+![Boxplot de Cargos](img/Distribucion-Churn-por-variable-categorica.png)
+*Figura 2: Distribución de Churn por variable categorica.*
+
+![Heatmap de Correlación](img/Distribucion-Churn-por-variable-numerica.png)
+*Figura 3: Distribución de Churn por variable numérica.*
+
